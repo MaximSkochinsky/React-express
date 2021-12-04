@@ -1,0 +1,93 @@
+.Buy select {
+    width:200px;
+}
+
+img {
+    width: 400px;
+    float: left;    
+    margin: 0 15px 0 0;
+}
+
+.Buy {
+    height: "100%";
+    background-color: blue;
+}
+
+
+.submit {
+    height: 100px;
+}
+
+
+.auto-label {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.auto  {
+    background: linear-gradient(to bottom, #3333ff 0%, #000066 100%);
+}
+
+.color {
+    background: linear-gradient(to bottom, #3333ff 0%, #6699ff 100%);
+}
+
+
+.date {
+    background: linear-gradient(to bottom, #3333ff 0%, #cc00cc 100%);
+}
+
+.price {
+    background: linear-gradient(to bottom, #3333ff 0%, #003399 100%);
+}
+
+.price input {
+    width: 100px;
+}
+
+
+.date input {
+    width:100px
+}
+
+.Buy label {
+    padding-left: 15px;
+    color: white;
+}
+
+.contents {
+    color: black;
+    text-underline-position: auto;
+    background: linear-gradient(21deg, #dd03e4, #5611ec);
+}
+
+
+
+.auto-info {
+    text-align: left;
+    background-color: cornflowerblue;
+    height: 493px;
+}
+
+
+.auto-info p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+    margin: 0px 0px 0px 0px;
+    text-shadow: 1px 1px 0 green, -1px -1px 0 green, 2px 2px green, -2px -2px green;
+    transition: 1s;
+}
+
+.auto-info h1{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.main-info {
+    text-shadow: 1px 1px 0 yellow, -1px -1px 0 yellow, 1px 1px yellow, -1px -1px yellow;
+}
+
+hr {
+    border: 1px solid black;
+}
